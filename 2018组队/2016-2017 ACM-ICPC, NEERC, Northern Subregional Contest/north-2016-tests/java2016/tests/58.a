@@ -1,0 +1,13 @@
+a = (? max ? max ? max ?) / (? max ?)
+b = (a max a) min (a max a)
+c = (b max b) min (b max b)
+d = (c max c) min (c max c)
+e = (d max d) min (d max d)
+f = (e + e)
+g = f * f
+h = g * f
+i = h * f
+j = i * f
+k = j * f
+l = k * f
+?/?/? + f + g + i + l
